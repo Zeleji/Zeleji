@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeleji!
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently learning frontend basic.
-- 💞️ I’m looking to collaborate on programming projects.
+- 💞️ I’m looking forward to collaborate on programming projects.
 - 📫 You can reach me through email - zeljie25@gmail.com
 - 😄 Pronouns: ..
 - ⚡ Fun fact: I love sci-fi movies, fantasy stories and anime.  
